@@ -1,7 +1,7 @@
 # Site
 name: "songhee gift"
 title: "songhee gift"
-description: "songhee gift recommendation site. 송희의 선물 추천 사이트 입니다."
+description: "songhee gift recommendation site"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /songhee-gift
